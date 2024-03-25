@@ -1,1 +1,4 @@
  this is  a text doc
+ line to mergre
+ adding new line
+
